@@ -1,6 +1,5 @@
-# MAST30034 Project 1
-- Name: Haiyang(Henry) Huang
-- Student ID: 1071147
+# NYC-Yellow-Taxi-Demand-Analysis
+- Author: Haiyang(Henry) Huang
 
 
 # Information about this Project
@@ -27,4 +26,4 @@ To run the pipeline, please visit the `scripts` directory and run the files in o
 
 # Some code reference
 Use of folium: https://towardsdatascience.com/folium-and-choropleth-map-from-zero-to-pro-6127f9e68564 <br />
-Use of Spark/statsmodel/geopands/folium: MAST30034 Tutorial (Really appreciate it!!).
+Use of Spark/statsmodel/geopands/folium: MAST30034 Tutorial.
